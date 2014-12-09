@@ -76,10 +76,14 @@ outline: 0;
 #wrap #contain {
   text-align: center;
   vertical-align: middle;
-  display: table-cell; }
+  display: table-cell;
+  background-color: #f97e6e;
+
+}
 
 #wrap #contain #content {
-  display: inline-block; }
+  display: inline-block;
+}
 
 #header {
   margin: 0 0 24px;
@@ -87,6 +91,8 @@ outline: 0;
   max-width: 330px;
   max-height: 150px;
 }
+
+
 
 .contact-section {
   background-color: #f97e6e;
